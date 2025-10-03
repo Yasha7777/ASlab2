@@ -1,0 +1,17 @@
+<resources>
+    <string name="player_wins">Вы победили!</string>
+    <string name="computer_wins">Компьютер победил!</string>
+    <string name="tie">Ничья!</string>
+    <string name="play_again">Играть снова</string>
+    <string name="result_text">Сделайте выбор</string>
+    <string name="player_score">Игрок: %1$d</string>
+    <string name="computer_score">Компьютер: %1$d</string>
+    <string name="settings">Настройки</string>
+    <string name="win_points">Очки до победы:</string>
+    <string name="save">Сохранить</string>
+    <string name="rock">Камень</string>
+    <string name="paper">Бумага</string>
+    <string name="scissors">Ножницы</string>
+    <string name="hint_win_points">Например, 5</string>
+    <string name="app_name">Камень-Ножницы-Бумага</string>
+</resources>
